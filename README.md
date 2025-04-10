@@ -48,8 +48,9 @@
 
 ### 🚧 Softwel (P) Ltd. — *Software Developer (2017–2024)*  
 - Developed engineering-grade Android GIS apps used by 3K+ users across 557 municipalities  
-- Projects impacted **7M+ people**, including national and international stakeholders  
-- Provided user training, created documentation, and ensured SLA-compliant delivery
+- Contributed to nationwide digital transformation efforts across diverse government sectors  
+- Delivered user training, created documentation, and ensured SLA-compliant delivery
+
 
 ### 🧠 Microsoft Innovation Center — *Intern Developer (2016)*  
 - Developed frontend for a Japanese live-streaming app  
