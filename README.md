@@ -8,10 +8,10 @@
 ## 💼 About Me
 
 🎓 Bachelor’s in Computer Science & IT  
-👨‍💻 7+ years of experience in software development  
-📱 Specialized in Android (Java/Kotlin), with strong Web & Data Science capabilities  
-🌍 Built solutions with **nationwide impact**, used by diverse organizations and government bodies  
-🧠 Lifelong learner, passionate about tech and continual growth
+👨‍💻 Passionate about mobile and web development, focused on building user-friendly, scalable solutions  
+📱 Specialized in Android (Java/Kotlin), with solutions that have **nationwide impact**, used by diverse organizations and government bodies  
+🌍 Extensive experience across **Android**, **Web Development**, and **Data Science** projects  
+🧠 Lifelong learner, always exploring new technologies to stay ahead of the curve
 
 ---
 
