@@ -60,33 +60,54 @@
 
 ## 🌟 Notable Projects
 
-### 📱 NWASH – *Ministry of Water Supply, Nepal*  
-Developed Android apps to monitor sanitation/hygiene in 557+ municipalities  
-→ Real-time REST API sync, boosting operational efficiency by 30%
+### 📊 Data Science Projects
 
-### 📱 BSMS – *Dept. of Roads, Nepal*  
-Migrated legacy Java Android app to Flutter  
-→ Performance & UX improved by 40%; 650+ active users monitoring bridges
+#### **Canada Home Rental Price Prediction** – *BrainStation, Final Project*  
+As part of my **Data Science** program at **BrainStation**, I built a model to predict rental prices in Canada.  
+→ Used **Random Forest Regressor** to predict prices based on features like location and size.  
+→ Applied **ANOVA** to find key factors affecting rental prices.  
+→ Implemented **Cross-Validation** to improve model accuracy and avoid overfitting.
 
-### 📱 ASMS – *Asian Development Bank, Nepal*  
-Android app to ensure compliance across environmental/construction sites  
-→ Real-time sync, reducing manual reporting errors by 25%
+---
 
-### 📱 TPMA Earthquake App – *ADB, Nepal*  
-Post-earthquake reconstruction app for 500+ surveyors  
-→ FTP + SQLite integration for offline-first architecture
+### 💻 Web Projects
+Here are some of the **web development** projects I’ve worked on and built during my S/w engineering Bootcamp:
 
-### 💻 Proposal Craft – *BrainStation Capstone (2024)*  
+#### **Proposal Craft** – *BrainStation Capstone (2024)*  
 Full-stack AI-powered app for automating RFP proposals  
 → Stack: `React`, `Express.js`, `MySQL`, `Generative AI`, reusable modular components
 
-### 💻 Web Projects  
-Here are some of the **web development** projects I’ve worked on and built during my S/w engineering Bootcamp:
+#### **Instock**
+Developed an **inventory management web app** as part of my bootcamp curriculum, utilizing **React**, **Node.js**, **Express**, **Bootstrap**, **SASS**, **Axios**, and **React Router** for the frontend, and **Knex.js**, **MySQL2**, **Express**, **CORS**, and **dotenv** for the backend. The project integrates efficient stock management features with a clean, user-friendly interface.
 
-- **Branflix**: A movie streaming platform built using **HTML**, **CSS**, and **React** for a dynamic, user-friendly interface.
-- **Travel Site**: Designed and developed a responsive travel website using **HTML**, **CSS**, and **React** to provide seamless navigation and browsing experience.
-- **BandSite**: Built a site for a band using **HTML** and **CSS**, showcasing music, events, and band information.
-- **Instock**: Developed an **inventory management web app** using **React**, **Node.js**, **Express**, and **Bootstrap**. The project uses **SASS** for styling, **React Router** for navigation, and **Axios** for handling API requests to streamline product tracking and stock management.
+#### **BandSite**
+Built a site for a **band** using **HTML** and **CSS**, showcasing music, events, and band information.
+
+#### **Branflix** 
+Built a **movie streaming platform** using **HTML**, **CSS**, and **React** for a dynamic, user-friendly interface.
+
+#### **Travel Site**
+Designed and developed a **responsive travel website** using **HTML**, **CSS**, and **React** to provide seamless navigation and browsing experience.
+
+---
+
+### 📱 Android Projects
+
+#### **NWASH – Ministry of Water Supply, Nepal**  
+Developed Android apps to monitor sanitation/hygiene in 557+ municipalities  
+→ Real-time REST API sync, boosting operational efficiency by 30%
+
+#### **BSMS – Dept. of Roads, Nepal**  
+Migrated legacy Java Android app to Flutter  
+→ Performance & UX improved by 40%; 650+ active users monitoring bridges
+
+#### **ASMS – Asian Development Bank, Nepal**  
+Android app to ensure compliance across environmental/construction sites  
+→ Real-time sync, reducing manual reporting errors by 25%
+
+#### **TPMA Earthquake App – ADB, Nepal**  
+Post-earthquake reconstruction app for 500+ surveyors  
+→ FTP + SQLite integration for offline-first architecture
 
 ---
 
