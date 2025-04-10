@@ -80,6 +80,31 @@ Post-earthquake reconstruction app for 500+ surveyors
 Full-stack AI-powered app for automating RFP proposals  
 → Stack: `React`, `Express.js`, `MySQL`, `Generative AI`, reusable modular components
 
+### 💻 Web Projects  
+Here are some of the **web development** projects I’ve worked on and built during my S/w engineering Bootcamp:
+
+- **Branflix**: A movie streaming platform built using **HTML**, **CSS**, and **React** for a dynamic, user-friendly interface.
+- **Travel Site**: Designed and developed a responsive travel website using **HTML**, **CSS**, and **React** to provide seamless navigation and browsing experience.
+- **BandSite**: Built a site for a band using **HTML** and **CSS**, showcasing music, events, and band information.
+- **Instock**: Developed an **inventory management web app** using **React**, **Node.js**, **Express**, and **Bootstrap**. The project uses **SASS** for styling, **React Router** for navigation, and **Axios** for handling API requests to streamline product tracking and stock management.
+
+---
+
+### Full Stack Technologies for **Instock**:
+#### **Frontend**:
+- **React**, **React-Bootstrap**, **Sass**, **React Router**  
+- **Axios** for API requests
+
+#### **Backend**:
+- **Node.js**, **Express.js**  
+- **Knex.js** for query building and migrations  
+- **MySQL2** for database connection  
+- **CORS** for cross-origin requests  
+- **dotenv** for managing environment variables
+
+#### **Dev Tools**:
+- **Vite**, **ESLint** for code quality
+
 ---
 
 ## 🎓 Education & Certifications
