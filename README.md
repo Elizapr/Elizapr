@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 👋 <span style="color:#4CAF50;">A Software Developer</span> with 7+ Years of Experience</h1>
+<h1 align="center">Hi there, I'm 👋 a Passionate Software Developer</h1>
 <p align="center">
   <em>Crafting scalable Android, web, and data-driven solutions to empower real-world impact 🚀</em>
 </p>
