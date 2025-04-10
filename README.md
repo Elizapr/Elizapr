@@ -130,12 +130,12 @@ Post-earthquake reconstruction app for 500+ surveyors
 
 ## 🎓 Education & Certifications
 
-- 🎓 BSc. CSIT – *Tribhuvan University, Nepal*
+- 📜 Junior Data Analyst Program – *NPower Canada* *(Apr 2025)*
 - 📜 IBM Data Analyst Professional Certificate *(Apr 2025)*
 - 📜 Microsoft Azure AI-900 *(Feb 2025)*
 - 📜 Data Science Certification – *BrainStation, Canada* *(Sep–Nov 2024)*
 - 📜 Web Dev Diploma – *BrainStation, Canada* *(Jun–Aug 2024)*
-- 📜 Junior Data Analyst Program – *NPower Canada* *(Apr 2025)*
+- 🎓 BSc. CSIT – *Tribhuvan University, Nepal*
 
 ---
 <!--
