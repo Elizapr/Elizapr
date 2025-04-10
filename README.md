@@ -98,9 +98,9 @@ Full-stack AI-powered app for automating RFP proposals
   <img src="https://github-readme-stats.vercel.app/api?username=Elizapr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elizapr&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
--->
----
 
+---
+-->
 ## 📬 Let’s Connect
 
 - 📧 Email: pradhaneliza2@gmail.com  
